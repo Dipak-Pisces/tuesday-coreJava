@@ -1,0 +1,17 @@
+what is lambda expression?
+    Lambda expressions implements abstract methods of functional interfaces.
+    They are anonymous function without name,return type, access modifiers.
+    They enable 'functional style programming'.
+
+how to create lambda function?
+    remove access modifier
+    remove return type
+    remove method name
+    add arrow ->
+> Specifying parameter datatype is not mandatory. Java can understand it as per the situation
+
+advantages of lambda?
+    better code readability
+    reduces jar file size
+    avoids use of shallow variables
+    enables functional programming

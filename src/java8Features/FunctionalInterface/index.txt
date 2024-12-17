@@ -1,0 +1,13 @@
+what is interface?
+    interface is an reference type, that can contain only abstract methods. static methods, default methods, and constants.
+    all methods are abstract by default unless explicitly marked as "defualt"
+    constants are treated as "public static final"
+    public -> accessible anywhere
+    static -> associated with interface, not with an instance
+    final -> cannot be changed
+
+What is functional interface?
+    functional interfaces are interfaces which have exactly one abstract method
+    can have multiple default or static method
+    goes hand to hand with lambda expressions.
+
